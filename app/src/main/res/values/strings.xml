@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPracticeApp</string>
+    <string name="text_entry">Text Entry</string>
+    <string name="add_to_array">Add to Array</string>
+</resources>
