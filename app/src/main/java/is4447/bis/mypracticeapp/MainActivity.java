@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
             String strValidation = etAdd.getText().toString();
             if(TextUtils.isEmpty(strValidation)) {
-                Toast.makeText(MainActivity.this, "enter something eejit", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "enter something idiot", Toast.LENGTH_SHORT).show();
             }
             else {
                 strValue = etAdd.getText().toString();
